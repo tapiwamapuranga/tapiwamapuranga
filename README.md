@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tapiwamapuranga
 - 👀 I’m interested in Data Analytics, software development and Information Systems
 - 🌱 Management Information Systems Diploma
-- 💞️ I’m looking to collaborate on Software Development 
+- 💞️ I’m looking to collaborate on Business Analysis, Market Analysis and Software Development 
 - 📫 tapiwamapuranga@gmail.com
 
 <!---

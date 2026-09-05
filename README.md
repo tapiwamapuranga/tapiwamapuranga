@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tapiwamapuranga
-- 👀 I’m interested in software development and Information SYstems Audit
-- 🌱 I’m currently learning Management Information Systems
+- 👀 I’m interested in Data Analytics, software development and Information Systems
+- 🌱 Management Information Systems Diploma
 - 💞️ I’m looking to collaborate on Software Development 
 - 📫 tapiwamapuranga@gmail.com
 
